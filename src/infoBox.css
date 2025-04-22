@@ -1,0 +1,13 @@
+.infoBox{
+    /* margin-top: 30px; */
+    /* text-align: center; */
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -60%); 
+    width: 270px;
+    height: 480px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
